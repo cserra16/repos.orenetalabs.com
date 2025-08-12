@@ -1,4 +1,4 @@
-import os, re, json, base64, requests
+import os, json, requests
 from datetime import datetime
 from time import sleep
 
@@ -29,18 +29,6 @@ def guess_subjects(text, topics):
     blob = f"{(text or '').lower()} {' '.join((topics or [])).lower()}"
     hits = {s for s,kws in SUBJECT_RULES.items() if any(kw in blob for kw in kws)}
     return sorted(hits) or ["projectes"]
-
-def readme_excerpt(owner, repo):
-    url = f"https://api.github.com/repos/{owner}/{repo}/readme"
-    r = requests.get(url, headers=BASE_HEADERS)
-    if r.status_code != 200:
-        return ""
-    content = r.json().get("content")
-    if not content:
-        return ""
-    raw = base64.b64decode(content).decode("utf-8", errors="ignore")
-    words = raw.strip().split()
-    return " ".join(words[:80]) + ("…" if len(words) > 80 else "")
 
 def languages(owner, repo):
     url = f"https://api.github.com/repos/{owner}/{repo}/languages"
@@ -87,9 +75,8 @@ def main():
         meta = fetch_repo(owner, name)
         topics = meta.get("topics", [])
         desc = meta.get("description") or ""
-        excerpt = readme_excerpt(owner, name)
         langs = languages(owner, name)
-        subjects = guess_subjects(desc + " " + excerpt, topics)
+        subjects = guess_subjects(desc, topics)
         data.append({
             "id": f"{owner}/{name}",
             "name": meta["name"],
@@ -101,7 +88,6 @@ def main():
             "stars": meta.get("stargazers_count", 0),
             "last_update": meta.get("pushed_at"),
             "languages": langs,
-            "readme_excerpt": excerpt,
             "subjects": subjects,
             "manual_subjects": [],
             "starred_at": starred_at,
