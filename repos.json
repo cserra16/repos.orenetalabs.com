@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "Z4nzu/hackingtool",
+    "name": "hackingtool",
+    "owner": "Z4nzu",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "topics": [
+      "allinonehackingtool",
+      "besthackingtool",
+      "ctf-tools",
+      "ddos-attack-tool",
+      "hacker",
+      "hacking",
+      "linux",
+      "password-attack",
+      "steganography",
+      "web-attack",
+      "wireless-attack",
+      "xss-attacks",
+      "xss-detection"
+    ],
+    "license": "MIT",
+    "stars": 53228,
+    "last_update": "2025-03-03T15:17:19Z",
+    "languages": [
+      "Python",
+      "Shell",
+      "Dockerfile"
+    ],
+    "readme_excerpt": "### All in One Hacking tool For Hackers🥇 ![](https://img.shields.io/github/license/Z4nzu/hackingtool) ![](https://img.shields.io/github/issues/Z4nzu/hackingtool) ![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool) ![](https://img.shields.io/badge/Python-3-blue) ![](https://img.shields.io/github/forks/Z4nzu/hackingtool) ![](https://img.shields.io/github/stars/Z4nzu/hackingtool) ![](https://img.shields.io/github/last-commit/Z4nzu/hackingtool) [![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool) ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue) #### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) or use Docker ## Update Available V1.2.0 🚀 - [✔] Installation Bug Fixed - [x] Added New Tools - [x] Reverse Engineering - [x] RAT Tools - [x] Web Crawling - [x] Payload Injector - [x] Multitor Tools update - [X] Added Tool in wifijamming - [X] Added Tool in steganography # Hackingtool Menu…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-12T06:39:00Z",
+    "updated_at": "2025-08-12T12:01:52.085672Z"
+  },
+  {
+    "id": "microsoft/mcp-for-beginners",
+    "name": "mcp-for-beginners",
+    "owner": "microsoft",
+    "url": "https://github.com/microsoft/mcp-for-beginners",
+    "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+    "topics": [
+      "csharp",
+      "java",
+      "javascript",
+      "javascript-applications",
+      "mcp",
+      "mcp-client",
+      "mcp-security",
+      "mcp-server",
+      "model",
+      "model-context-protocol",
+      "modelcontextprotocol",
+      "python",
+      "typescript"
+    ],
+    "license": "MIT",
+    "stars": 8874,
+    "last_update": "2025-08-12T08:20:43Z",
+    "languages": [
+      "Python",
+      "Java",
+      "Jupyter Notebook"
+    ],
+    "readme_excerpt": "![MCP-for-beginners](./images/mcp-beginners.png) [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/mcp-for-beginners.svg)](https://GitHub.com/microsoft/mcp-for-beginners/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/microsoft/mcp-for-beginners.svg)](https://GitHub.com/microsoft/mcp-for-beginners/issues) [![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/mcp-for-beginners.svg)](https://GitHub.com/microsoft/mcp-for-beginners/pulls) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub watchers](https://img.shields.io/github/watchers/microsoft/mcp-for-beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/mcp-for-beginners/watchers) [![GitHub forks](https://img.shields.io/github/forks/microsoft/mcp-for-beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/mcp-for-beginners/fork) [![GitHub stars](https://img.shields.io/github/stars/microsoft/mcp-for-beginners?style=social&label=Star)](https://GitHub.com/microsoft/mcp-for-beginners/stargazers) [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4) Follow these steps to get started using these resources: 1. **Fork the Repository**: Click [![GitHub forks](https://img.shields.io/github/forks/microsoft/mcp-for-beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/mcp-for-beginners/fork) 2. **Clone the Repository**: `git clone https://github.com/microsoft/mcp-for-beginners.git` 3. [**Join The Azure AI Foundry Discord and meet experts and fellow developers**](https://discord.com/invite/ByRwuEEgH4) ### 🌐 Multi-Language Support #### Supported via GitHub Action (Automated & Always Up-to-Date) [Arabic](./translations/ar/README.md) | [Bengali](./translations/bn/README.md) | [Bulgarian](./translations/bg/README.md) | [Burmese (Myanmar)](./translations/my/README.md) | [Chinese (Simplified)](./translations/zh/README.md)…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-11T15:56:33Z",
+    "updated_at": "2025-08-12T12:01:53.469981Z"
+  },
+  {
+    "id": "mouredev/hello-bash-shell",
+    "name": "hello-bash-shell",
+    "owner": "mouredev",
+    "url": "https://github.com/mouredev/hello-bash-shell",
+    "description": "Curso para aprender a trabajar con Bash (Bourne-again shell), línea de comandos, terminal y scripting desde cero utilizando Warp (la terminal y entorno de desarrollo con IA).)",
+    "topics": [
+      "bash",
+      "command-line",
+      "curso",
+      "linux",
+      "linux-shell",
+      "scripting",
+      "shell",
+      "terminal",
+      "tutorial"
+    ],
+    "license": "Apache-2.0",
+    "stars": 956,
+    "last_update": "2025-08-08T08:24:08Z",
+    "languages": [
+      "Shell"
+    ],
+    "readme_excerpt": "# Hello Bash/Shell [![Bash](https://img.shields.io/badge/bash-5+-green?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash/) [![Warp](https://img.shields.io/badge/warp-2-blue?style=for-the-badge&logo=warp&logoColor=white&labelColor=101010)](https://mouredev.link/warp) ## Curso para aprender a trabajar con Bash (Bourne-again shell), línea de comandos, terminal y scripting desde cero y para principiantes [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](https://www.linux.org) [![macOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)](https://www.apple.com/es/macos) [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](https://www.microsoft.com/es-es/windows) > ### Con soporte para Linux, macOS y Windows ![](./Images/header.jpg) ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev) > ##### Si consideras útil el curso, apóyalo haciendo \"★ Star\" en el repositorio. ¡Gracias! ## 🆕 NUEVO: Curso desde cero [En desarrollo] > [!IMPORTANT] > > 🔴 PRÓXIMA CLASE EN DIRECTO:…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-08T16:55:31Z",
+    "updated_at": "2025-08-12T12:01:54.038835Z"
+  },
+  {
+    "id": "adamcohenhillel/ADeus",
+    "name": "ADeus",
+    "owner": "adamcohenhillel",
+    "url": "https://github.com/adamcohenhillel/ADeus",
+    "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+    "topics": [
+      "ai",
+      "open",
+      "open-source-ai",
+      "wear",
+      "wearable",
+      "wearable-devices"
+    ],
+    "license": "NOASSERTION",
+    "stars": 3250,
+    "last_update": "2024-04-22T02:40:50Z",
+    "languages": [
+      "TypeScript",
+      "C++",
+      "Python"
+    ],
+    "readme_excerpt": "<div align=\"center\"> ℹ️ 🔴 Active development of Open Source AI Wearable can be found @ [Friend Repo](https://github.com/BasedHardware/Friend), and [Discord Community](https://discord.gg/kEXXsnb5b3) # **Adeus** Open-Source AI Wearable Device, the future depends on it! ![ADeus v0.1](docs/images/adeus_01.jpeg) <h3> [Homepage](https://www.adeus.ai/) | [Documentation](https://docs.adeus.ai/) | [Discord](https://discord.gg/kEXXsnb5b3) </h3> [![GitHub Repo stars](https://img.shields.io/github/stars/adamcohenhillel/ADeus)](https://github.com/adamcohenhillel/ADeus) Adeus is a wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it…",
+    "subjects": [
+      "alta-disponibilitat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-06T14:31:07Z",
+    "updated_at": "2025-08-12T12:01:54.604332Z"
+  },
+  {
+    "id": "dstotijn/hetty",
+    "name": "hetty",
+    "owner": "dstotijn",
+    "url": "https://github.com/dstotijn/hetty",
+    "description": "An HTTP toolkit for security research.",
+    "topics": [
+      "bugbounty",
+      "http",
+      "infosec",
+      "mitm",
+      "pentesting",
+      "proxy"
+    ],
+    "license": "MIT",
+    "stars": 8068,
+    "last_update": "2025-02-05T20:59:36Z",
+    "languages": [
+      "Go",
+      "TypeScript",
+      "CSS"
+    ],
+    "readme_excerpt": "<img src=\"https://user-images.githubusercontent.com/983924/156430531-6193e187-7400-436b-81c6-f86862783ea5.svg#gh-light-mode-only\" width=\"240\"/> <img src=\"https://user-images.githubusercontent.com/983924/156430660-9d5bd555-dcfd-47e2-ba70-54294c20c1b4.svg#gh-dark-mode-only\" width=\"240\"/> [![Latest GitHub release](https://img.shields.io/github/v/release/dstotijn/hetty?color=25ae8f)](https://github.com/dstotijn/hetty/releases/latest) [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fdstotijn%2Fhetty%2Fbadge%3Fref%3Dmain&label=build&color=24ae8f)](https://github.com/dstotijn/hetty/actions/workflows/build-test.yml) ![GitHub download count](https://img.shields.io/github/downloads/dstotijn/hetty/total?color=25ae8f) [![GitHub](https://img.shields.io/github/license/dstotijn/hetty?color=25ae8f)](https://github.com/dstotijn/hetty/blob/master/LICENSE) [![Documentation](https://img.shields.io/badge/hetty-docs-25ae8f)](https://hetty.xyz/) **Hetty** is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community. <img src=\"https://hetty.xyz/img/hero.png\" width=\"907\" alt=\"Hetty proxy logs (screenshot)\" /> ## Features - Machine-in-the-middle (MITM) HTTP proxy, with logs and advanced search - HTTP client for manually creating/editing requests,…",
+    "subjects": [
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-04T23:41:25Z",
+    "updated_at": "2025-08-12T12:01:55.232843Z"
+  },
+  {
+    "id": "theowni/Damn-Vulnerable-RESTaurant-API-Game",
+    "name": "Damn-Vulnerable-RESTaurant-API-Game",
+    "owner": "theowni",
+    "url": "https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game",
+    "description": "Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.",
+    "topics": [],
+    "license": "GPL-3.0",
+    "stars": 801,
+    "last_update": "2025-04-06T06:59:11Z",
+    "languages": [
+      "Python",
+      "Dockerfile",
+      "Mako"
+    ],
+    "readme_excerpt": "![Damn Vulnerable RESTaurant Logo](app/static/img/mad-chef-circle-text.png) An intentionally vulnerable API service designed for learning and training purposes dedicated to developers, ethical hackers and security engineers. The idea of the project is to provide an environment that can be easily extended with new vulnerable endpoints and mechanisms that could be used in trainings for detecting and exploiting identified vulnerabilities. It's a training playground: * **For Developers** - engage in a dedicated game where you will identify and fix vulnerabilities interactively. * **For Ethical…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-04T23:38:54Z",
+    "updated_at": "2025-08-12T12:01:55.815610Z"
+  },
+  {
+    "id": "shcherbak-ai/contextgem",
+    "name": "contextgem",
+    "owner": "shcherbak-ai",
+    "url": "https://github.com/shcherbak-ai/contextgem",
+    "description": "ContextGem: Effortless LLM extraction from documents",
+    "topics": [
+      "ai",
+      "contract-analysis",
+      "data-extraction",
+      "document-intelligence",
+      "docx",
+      "docx2md",
+      "docx2txt",
+      "generative-ai",
+      "legaltech",
+      "llm",
+      "llm-extraction",
+      "llm-framework",
+      "llm-pipeline",
+      "llms",
+      "nlp",
+      "prompt-engineering",
+      "text-analysis",
+      "unstructured-data"
+    ],
+    "license": "Apache-2.0",
+    "stars": 1420,
+    "last_update": "2025-08-08T19:11:41Z",
+    "languages": [
+      "Python",
+      "Jupyter Notebook",
+      "Jinja"
+    ],
+    "readme_excerpt": "![ContextGem](https://contextgem.dev/_static/contextgem_readme_header.png \"ContextGem - Effortless LLM extraction from documents\") # ContextGem: Effortless LLM extraction from documents | | | |----------|--------| | **Package** | [![PyPI](https://img.shields.io/pypi/v/contextgem?logo=pypi&label=PyPi&logoColor=gold)](https://pypi.org/project/contextgem/) [![PyPI Downloads](https://static.pepy.tech/badge/contextgem/month)](https://pepy.tech/projects/contextgem) [![Python Versions](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue?logo=python&logoColor=gold)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/License-Apache_2.0-bright.svg)](https://opensource.org/licenses/Apache-2.0) | | **Quality** | [![tests](https://github.com/shcherbak-ai/contextgem/actions/workflows/ci-tests.yml/badge.svg?branch=main)](https://github.com/shcherbak-ai/contextgem/actions/workflows/ci-tests.yml) [![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/SergiiShcherbak/daaee00e1dfff7a29ca10a922ec3becd/raw/coverage.json)](https://github.com/shcherbak-ai/contextgem/actions) [![CodeQL](https://github.com/shcherbak-ai/contextgem/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/shcherbak-ai/contextgem/actions/workflows/codeql.yml) [![bandit security](https://github.com/shcherbak-ai/contextgem/actions/workflows/bandit-security.yml/badge.svg?branch=main)](https://github.com/shcherbak-ai/contextgem/actions/workflows/bandit-security.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10489/badge?1)](https://www.bestpractices.dev/projects/10489) | | **Tools** | [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv) [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) [![Pydantic v2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pydantic/pydantic/main/docs/badge/v2.json)](https://pydantic.dev) [![pyright](https://img.shields.io/badge/pyright-checked-blue)](https://github.com/microsoft/pyright) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-blue?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![deptry](https://img.shields.io/badge/deptry-checked-blue)](https://github.com/fpgmaas/deptry) [![Hatch project](https://img.shields.io/badge/%F0%9F%A5%9A-Hatch-4051b5.svg)](https://github.com/pypa/hatch) | | **Docs** | [![docs](https://github.com/shcherbak-ai/contextgem/actions/workflows/docs.yml/badge.svg?branch=main)](https://github.com/shcherbak-ai/contextgem/actions/workflows/docs.yml) [![documentation](https://img.shields.io/badge/docs-latest-blue.svg)](https://shcherbak-ai.github.io/contextgem/) ![Docstring Coverage](https://contextgem.dev/_static/interrogate-badge.svg) [![DeepWiki](https://img.shields.io/static/v1?label=DeepWiki&message=Chat%20with%20Code&labelColor=%23283593&color=%237E57C2&style=flat-square)](https://deepwiki.com/shcherbak-ai/contextgem) | | **Community** | [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) [![GitHub issues closed](https://img.shields.io/github/issues-closed/shcherbak-ai/contextgem)](https://github.com/shcherbak-ai/contextgem/issues?q=is%3Aissue+is%3Aclosed) [![GitHub latest commit](https://img.shields.io/github/last-commit/shcherbak-ai/contextgem?label=latest%20commit)](https://github.com/shcherbak-ai/contextgem/commits/main) | <div align=\"center\"> <img src=\"https://contextgem.dev/_static/tab_solid.png\" alt=\"ContextGem:…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-03T15:14:02Z",
+    "updated_at": "2025-08-12T12:01:56.531890Z"
+  },
+  {
+    "id": "davila7/claude-code-templates",
+    "name": "claude-code-templates",
+    "owner": "davila7",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "topics": [
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-code"
+    ],
+    "license": "MIT",
+    "stars": 3874,
+    "last_update": "2025-08-09T15:07:02Z",
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "Python"
+    ],
+    "readme_excerpt": "[![npm version](https://img.shields.io/npm/v/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates) [![npm downloads](https://img.shields.io/npm/dt/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![GitHub stars](https://img.shields.io/github/stars/davila7/claude-code-templates.svg?style=social&label=Star)](https://github.com/davila7/claude-code-templates) [![Open in DeepGraph](https://img.shields.io/badge/%E2%9C%A8%20Open%20in-DeepGraph-a465f7?style=flat)](https://www.deepgraph.co/davila7/claude-code-templates) # Claude Code Templates **CLI tool for configuring and monitoring Claude Code** - Quick setup for any project with framework-specific commands, mobile-first chats interface, and real-time monitoring dashboard. ## 🚀 Quick Start ```bash # Interactive setup (recommended) npx claude-code-templates@latest # Mobile-first chats interface ⭐ NEW! npx claude-code-templates@latest --chats # With secure remote access via Cloudflare Tunnel npx claude-code-templates@latest --chats --tunnel # Real-time analytics dashboard npx…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-03T15:08:24Z",
+    "updated_at": "2025-08-12T12:01:57.194358Z"
+  },
+  {
+    "id": "wg-easy/wg-easy",
+    "name": "wg-easy",
+    "owner": "wg-easy",
+    "url": "https://github.com/wg-easy/wg-easy",
+    "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+    "topics": [],
+    "license": "AGPL-3.0",
+    "stars": 22052,
+    "last_update": "2025-08-12T07:20:04Z",
+    "languages": [
+      "TypeScript",
+      "Vue",
+      "JavaScript"
+    ],
+    "readme_excerpt": "# WireGuard Easy [![Build & Publish latest Image](https://github.com/wg-easy/wg-easy/actions/workflows/deploy.yml/badge.svg?branch=production)](https://github.com/wg-easy/wg-easy/actions/workflows/deploy.yml) [![Lint](https://github.com/wg-easy/wg-easy/actions/workflows/lint.yml/badge.svg?branch=master)](https://github.com/wg-easy/wg-easy/actions/workflows/lint.yml) [![GitHub Stars](https://img.shields.io/github/stars/wg-easy/wg-easy)](https://github.com/wg-easy/wg-easy/stargazers) [![License](https://img.shields.io/github/license/wg-easy/wg-easy)](LICENSE) [![GitHub Release](https://img.shields.io/github/v/release/wg-easy/wg-easy)](https://github.com/wg-easy/wg-easy/releases/latest) [![Image Pulls](https://img.shields.io/badge/image_pulls-12M+-blue)](https://github.com/wg-easy/wg-easy/pkgs/container/wg-easy) You have found the easiest way to install & manage WireGuard on any Linux host! <!-- TOOD: update screenshot --> <p align=\"center\"> <img src=\"./assets/screenshot.png\" width=\"802\" alt=\"wg-easy Screenshot\" /> </p> ## Features - All-in-one: WireGuard + Web UI. - Easy installation, simple to use. - List, create, edit, delete, enable & disable clients. - Show a client's QR code. - Download a client's configuration file.…",
+    "subjects": [
+      "alta-disponibilitat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-03T08:51:08Z",
+    "updated_at": "2025-08-12T12:01:57.858848Z"
+  },
+  {
+    "id": "mikeroyal/Digital-Forensics-Guide",
+    "name": "Digital-Forensics-Guide",
+    "owner": "mikeroyal",
+    "url": "https://github.com/mikeroyal/Digital-Forensics-Guide",
+    "description": "Digital Forensics Guide. Learn all about Digital Forensics, Computer Forensics, Mobile device Forensics, Network Forensics, and Database Forensics.",
+    "topics": [
+      "alerting",
+      "cyber-security",
+      "detection-engineering",
+      "dfir",
+      "digital-forensics",
+      "digitalforensicreadiness",
+      "digitalforensics",
+      "forensic-analysis",
+      "forensics",
+      "forensics-investigations",
+      "forensics-tools",
+      "intrusion-detection",
+      "mitre-attack",
+      "network-security",
+      "offensive-security",
+      "osint",
+      "port-scanning",
+      "security",
+      "siem",
+      "threat-intelligence"
+    ],
+    "license": "NOASSERTION",
+    "stars": 2189,
+    "last_update": "2024-01-04T22:41:58Z",
+    "languages": [
+      "Python"
+    ],
+    "readme_excerpt": "<h1 align=\"center\"> <img src=\"https://user-images.githubusercontent.com/45159366/128566063-b2661938-6f0b-4110-b52d-d6f6da04ee8e.png\"> <br /> Digital Forensics Guide </h1> <a href=\"https://github.com/mikeroyal?tab=followers\"> <img alt=\"followers\" title=\"Follow me on Github for Updates\" src=\"https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white\"/></a> ![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge) ![Last-Commit](https://img.shields.io/github/last-commit/mikeroyal/digital-forensics-guide?style=for-the-badge) #### A guide covering Digital Forensics the applications, libraries and tools that will make you a better and more efficient with Digital Forensics development. **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).** <p align=\"center\"> <img src=\"https://user-images.githubusercontent.com/45159366/128566069-72aec035-4c2c-47cc-b3eb-6114d10689ec.png\"> <br /> </p> # Table of Contents 1. [Getting Started…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-03T08:49:58Z",
+    "updated_at": "2025-08-12T12:01:58.431553Z"
+  },
+  {
+    "id": "better-auth/better-auth",
+    "name": "better-auth",
+    "owner": "better-auth",
+    "url": "https://github.com/better-auth/better-auth",
+    "description": "The most comprehensive authentication framework for TypeScript",
+    "topics": [],
+    "license": "MIT",
+    "stars": 18881,
+    "last_update": "2025-08-12T11:18:45Z",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "readme_excerpt": "<p align=\"center\"> <picture> <source srcset=\"./banner-dark.png\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"./banner.png\" media=\"(prefers-color-scheme: light)\"> <img src=\"./banner.png\" alt=\"Better Auth Logo\"> </picture> <h2 align=\"center\"> Better Auth </h2> <p align=\"center\"> The most comprehensive authentication library for TypeScript <br /> <a href=\"https://better-auth.com\"><strong>Learn more »</strong></a> <br /> <br /> <a href=\"https://discord.gg/better-auth\">Discord</a> · <a href=\"https://better-auth.com\">Website</a> · <a href=\"https://github.com/better-auth/better-auth/issues\">Issues</a> </p> [![npm](https://img.shields.io/npm/dm/better-auth)](https://npm.chart.dev/better-auth?primary=neutral&gray=neutral&theme=dark) [![npm version](https://img.shields.io/npm/v/better-auth.svg)](https://www.npmjs.com/package/better-auth) [![GitHub stars](https://img.shields.io/github/stars/better-auth/better-auth)](https://github.com/better-auth/better-auth/stargazers) </p> ## About the Project Better Auth is framework-agnostic authentication (and authorization) library for TypeScript. It provides a comprehensive set of features out of the…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-02T13:48:10Z",
+    "updated_at": "2025-08-12T12:01:59.069957Z"
+  },
+  {
+    "id": "joseluis9595/lovelace-navbar-card",
+    "name": "lovelace-navbar-card",
+    "owner": "joseluis9595",
+    "url": "https://github.com/joseluis9595/lovelace-navbar-card",
+    "description": "Custom lovelace card that displays a bottom nav in mobile devices, and a side nav in desktop devices for easy navigation.",
+    "topics": [
+      "card",
+      "cards",
+      "custom-card",
+      "dashboard",
+      "home-assistant",
+      "home-assistant-custom",
+      "home-assistant-custom-card",
+      "homeassistant",
+      "lovelace",
+      "lovelace-custom-card"
+    ],
+    "license": "NOASSERTION",
+    "stars": 391,
+    "last_update": "2025-08-11T08:57:13Z",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "readme_excerpt": "# Navbar Card [![Version](https://img.shields.io/github/v/release/joseluis9595/lovelace-navbar-card)](#) [![Last commit](https://img.shields.io/github/last-commit/joseluis9595/lovelace-navbar-card)](#) ![Downloads](https://img.shields.io/github/downloads/joseluis9595/lovelace-navbar-card/total) [![HA Community forum](https://img.shields.io/badge/Home%20Assistant-Community%20Forum-319fee?logo=home-assistant)](https://community.home-assistant.io/t/navbar-card-easily-navigate-through-dashboards/832917) [![Buy me a beer](https://img.shields.io/badge/Support-Buy%20me%20a%20beer-fdd734?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/joseluis9595) <img width=\"1282\" height=\"478\" alt=\"navbar-card-github\" src=\"https://github.com/user-attachments/assets/11c383ad-bdc1-4254-b6b0-c88a5341ecc0\" /> <br> <br> Navbar Card is a custom Lovelace card designed to **simplify navigation** within your Home Assistant dashboard, heavily inspired by the great work of [**Adaptive Mushroom**](https://community.home-assistant.io/t/adaptive-mushroom/640308) and [**Google's Material Design**](https://m3.material.io/). It provides a sleek, responsive navigation bar that displays as a full-width bar at the bottom on mobile devices. On desktop, it adapts into a flexible container that can…",
+    "subjects": [
+      "alta-disponibilitat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-08-02T13:27:50Z",
+    "updated_at": "2025-08-12T12:01:59.674773Z"
+  },
+  {
+    "id": "omkarcloud/google-maps-scraper",
+    "name": "google-maps-scraper",
+    "owner": "omkarcloud",
+    "url": "https://github.com/omkarcloud/google-maps-scraper",
+    "description": "👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖",
+    "topics": [
+      "amazon-product-scraper",
+      "amazon-scraper",
+      "google-maps",
+      "google-maps-api",
+      "google-maps-review",
+      "google-maps-reviews",
+      "google-maps-scrape",
+      "google-maps-scraper",
+      "google-maps-scraper-python",
+      "google-maps-scraping",
+      "google-reviews",
+      "google-scraper",
+      "google-scraping",
+      "googlemaps-scraper",
+      "lead-generation",
+      "lead-generator",
+      "leadgeneration",
+      "scraping-reviews-from-googlemaps",
+      "serp-api",
+      "serpapi"
+    ],
+    "license": "MIT",
+    "stars": 1943,
+    "last_update": "2025-07-09T14:42:04Z",
+    "languages": [],
+    "readme_excerpt": "![Google Maps Extractor Feautred Image](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/google-maps-scraper-feautred-image.png) <div align=\"center\" style=\"margin-top: 0;\"> <h1>✨ Google Maps Scraper 🤖</h1> </div> <p align=\"center\"> <a href=\"#\"> <img alt=\"google-maps-scraper forks\" src=\"https://img.shields.io/github/forks/omkarcloud/google-maps-scraper?style=for-the-badge\" /> </a> <a href=\"#\"> <img alt=\"Repo stars\" src=\"https://img.shields.io/github/stars/omkarcloud/google-maps-scraper?style=for-the-badge&color=yellow\" /> </a> <a href=\"https://github.com/omkarcloud/google-maps-scraper/issues\"> <img alt=\"issues\" src=\"https://img.shields.io/github/issues/omkarcloud/google-maps-scraper?color=purple&style=for-the-badge\" /> </a> </p> <p align=\"center\"> <img src=\"https://views.whatilearened.today/views/github/omkarcloud/google-maps-scraper.svg\" width=\"80px\" height=\"28px\" alt=\"View\" /> </p> --- ## Disclaimer for Google Maps Scraper Project > This Google Maps Scraper is provided for educational and research purposes only. By using this Google Maps Extractor, you agree to…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-07-30T07:10:51Z",
+    "updated_at": "2025-08-12T12:02:00.334495Z"
+  },
+  {
+    "id": "fujiapple852/trippy",
+    "name": "trippy",
+    "owner": "fujiapple852",
+    "url": "https://github.com/fujiapple852/trippy",
+    "description": "A network diagnostic tool ",
+    "topics": [
+      "cli",
+      "command-line-interface",
+      "command-line-tool",
+      "dns",
+      "icmp",
+      "linux",
+      "macos",
+      "mtr",
+      "netbsd",
+      "network",
+      "networking",
+      "ping",
+      "ratatui",
+      "rust",
+      "rustlang",
+      "tool",
+      "traceroute",
+      "tui",
+      "tui-rs",
+      "windows"
+    ],
+    "license": "Apache-2.0",
+    "stars": 5913,
+    "last_update": "2025-08-11T02:24:00Z",
+    "languages": [
+      "Rust",
+      "Shell",
+      "Dockerfile"
+    ],
+    "readme_excerpt": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/fujiapple852/trippy/master/docs/src/assets/Trippy-Vertical-DarkMode.svg#gh-dark-mode-only\" width=\"300\"> <img src=\"https://raw.githubusercontent.com/fujiapple852/trippy/master/docs/src/assets/Trippy-Vertical.svg#gh-light-mode-only\" width=\"300\"><br> <br> <a href=\"https://github.com/fujiapple852/trippy/actions/workflows/ci.yml\"> <img src=\"https://github.com/fujiapple852/trippy/actions/workflows/ci.yml/badge.svg?branch=master\"></a> <a href=\"https://crates.io/crates/trippy/0.13.0\"> <img src=\"https://img.shields.io/crates/v/trippy.svg\"></a> <a href=\"https://repology.org/project/trippy/versions\"> <img src=\"https://repology.org/badge/tiny-repos/trippy.svg\"></a> <a href=\"https://trippy.zulipchat.com\"> <img src=\"https://img.shields.io/badge/zulip-join_chat-brightgreen.svg\"></a> <a href=\"https://matrix.to/#/#trippy-dev:matrix.org\"> <img src=\"https://img.shields.io/badge/matrix/trippy-dev:matrix.org-blue\"></a> <br> <br> Trippy combines the functionality of traceroute and ping and is designed to assist with the analysis of networking issues. </p> <img src=\"https://raw.githubusercontent.com/fujiapple852/trippy/master/assets/0.12.0/demo.gif\" alt=\"trippy\"/> ## Quick Start See the [getting started](https://trippy.rs/start/getting-started) guide. ### Install Trippy runs on Linux, BSD, macOS, and Windows. It can be installed from most package managers,…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-07-21T13:14:28Z",
+    "updated_at": "2025-08-12T12:02:00.978663Z"
+  },
+  {
+    "id": "siteboon/claudecodeui",
+    "name": "claudecodeui",
+    "owner": "siteboon",
+    "url": "https://github.com/siteboon/claudecodeui",
+    "description": "Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
+    "topics": [
+      "anthropic",
+      "anthropic-ai",
+      "anthropic-claude",
+      "claude",
+      "claude-api",
+      "claude-code",
+      "claude-code-ui",
+      "claudecode",
+      "gui",
+      "mobile-first",
+      "react",
+      "ui"
+    ],
+    "license": "GPL-3.0",
+    "stars": 2944,
+    "last_update": "2025-08-12T11:48:49Z",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "readme_excerpt": "<div align=\"center\"> <img src=\"public/logo.svg\" alt=\"Claude Code UI\" width=\"64\" height=\"64\"> <h1>Claude Code UI</h1> </div> A desktop and mobile UI for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), Anthropic's official CLI for AI-assisted coding. You can use it locally or remotely to view your active projects and sessions in claude code and make changes to them the same way you would do it in claude code CLI. This gives you a proper interface that works everywhere. ## Screenshots <div align=\"center\"> <table> <tr> <td align=\"center\"> <h3>Desktop View</h3> <img…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-07-20T13:55:21Z",
+    "updated_at": "2025-08-12T12:02:01.655753Z"
+  },
+  {
+    "id": "DevToys-app/DevToys",
+    "name": "DevToys",
+    "owner": "DevToys-app",
+    "url": "https://github.com/DevToys-app/DevToys",
+    "description": "A Swiss Army knife for developers.",
+    "topics": [
+      "blazor",
+      "cross-platform",
+      "csharp",
+      "desktop",
+      "desktop-app",
+      "desktop-application",
+      "developer-tools",
+      "extensible",
+      "fluent",
+      "fluent-design",
+      "linux",
+      "macos",
+      "mica",
+      "syntax-highlighting",
+      "typescript",
+      "windows",
+      "windows-10",
+      "windows-11",
+      "winui"
+    ],
+    "license": "MIT",
+    "stars": 29642,
+    "last_update": "2025-08-01T23:37:05Z",
+    "languages": [
+      "C#",
+      "SCSS",
+      "HTML"
+    ],
+    "readme_excerpt": "<p align=\"center\"> <img width=\"128\" align=\"center\" src=\"/assets/logo/Windows-Linux/Stable/Icon-Windows-Linux.png\"> </p> <h1 align=\"center\"> DevToys </h1> <p align=\"center\"> A Swiss Army knife for developers. </p> <p align=\"center\"> <a title=\"Crowdin\" target=\"_blank\" href=\"https://crowdin.com/project/devtoys\"> <img src=\"https://badges.crowdin.net/devtoys/localized.svg\"></a> <a style=\"text-decoration:none\" href=\"https://devtoys.app\" target=\"_blank\"> <img src=\"https://img.shields.io/badge/Website-devtoys.app-blue\" alt=\"Website\" /></a> </p> ## Introduction DevToys helps with daily development tasks by offering a bundle of tiny tools designed to do quick, specific tiny tasks. No need to use many untrustworthy websites to simply decode a text or compress an image. With Smart Detection, the app…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-07-20T11:41:26Z",
+    "updated_at": "2025-08-12T12:02:02.320306Z"
+  },
+  {
+    "id": "C4illin/ConvertX",
+    "name": "ConvertX",
+    "owner": "C4illin",
+    "url": "https://github.com/C4illin/ConvertX",
+    "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+    "topics": [
+      "bun",
+      "conversion",
+      "convert",
+      "converter",
+      "document-conversion",
+      "elysia",
+      "file-conversion",
+      "file-converter",
+      "hacktoberfest",
+      "pdf-converter",
+      "self-hosted",
+      "tailwindcss",
+      "typescript"
+    ],
+    "license": "AGPL-3.0",
+    "stars": 7123,
+    "last_update": "2025-08-11T20:35:58Z",
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "CSS"
+    ],
+    "readme_excerpt": "![ConvertX](images/logo.png) # ConvertX [![Docker](https://github.com/C4illin/ConvertX/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/C4illin/ConvertX/actions/workflows/docker-publish.yml) [![ghcr.io Pulls](https://img.shields.io/badge/dynamic/json?logo=github&url=https%3A%2F%2Fipitio.github.io%2Fbackage%2FC4illin%2FConvertX%2Fconvertx.json&query=%24.downloads&label=ghcr.io%20pulls&cacheSeconds=14400)](https://github.com/C4illin/ConvertX/pkgs/container/ConvertX) [![Docker Pulls](https://img.shields.io/docker/pulls/c4illin/convertx?style=flat&logo=docker&label=dockerhub%20pulls&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fc4illin%2Fconvertx%2Fgeneral)](https://hub.docker.com/r/c4illin/convertx) [![GitHub Release](https://img.shields.io/github/v/release/C4illin/ConvertX)](https://github.com/C4illin/ConvertX/pkgs/container/convertx) ![GitHub commits since latest release](https://img.shields.io/github/commits-since/C4illin/ConvertX/latest) ![GitHub repo size](https://img.shields.io/github/repo-size/C4illin/ConvertX) ![Docker container size](https://ghcr-badge.egpl.dev/c4illin/convertx/size?color=%230375b6&tag=latest&label=image+size&trim=) <a href=\"https://trendshift.io/repositories/13818\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13818\" alt=\"C4illin%2FConvertX | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> <!-- ![Dev image size](https://ghcr-badge.egpl.dev/c4illin/convertx/size?color=%230375b6&tag=main&label=dev+image&trim=) --> A self-hosted online file converter. Supports over a thousand different formats. Written with TypeScript, Bun and Elysia. ## Features - Convert files to different formats - Process multiple files at once - Password protection - Multiple accounts ## Converters supported |…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-07-20T08:35:31Z",
+    "updated_at": "2025-08-12T12:02:02.945844Z"
+  },
+  {
+    "id": "OpenSignLabs/OpenSign",
+    "name": "OpenSign",
+    "owner": "OpenSignLabs",
+    "url": "https://github.com/OpenSignLabs/OpenSign",
+    "description": "🔥 The free & Open Source DocuSign alternative",
+    "topics": [
+      "digital-signature",
+      "document-signing",
+      "docusign-alternative",
+      "docusign-free",
+      "e-signature",
+      "electronic-signature",
+      "electronic-signatures",
+      "esign",
+      "esignature",
+      "hacktoberfest",
+      "javascript",
+      "legaltech",
+      "mongodb",
+      "nodejs",
+      "open-source",
+      "pdf-sign",
+      "pdf-signature",
+      "reactjs",
+      "self-hosted",
+      "sign-pdf-files"
+    ],
+    "license": "NOASSERTION",
+    "stars": 5096,
+    "last_update": "2025-08-11T00:58:15Z",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "readme_excerpt": "<h1 align=\"center\"><a href='https://www.opensignlabs.com'><img src=https://github.com/OpenSignLabs/OpenSign/assets/5486116/e518cc9c-5de3-47da-950b-f93336b9f14e></a> </h1><div align=\"center\"> [The free and open source alternative to DocuSign](https://www.opensignlabs.com) [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/opensignlabs/opensign.svg)](http://isitmaintained.com/project/opensignlabs/opensign \"Average time to resolve an issue\") [![All Contributors](https://img.shields.io/github/all-contributors/opensignlabs/opensign?color=ee8449&style=flat-square)](#contributors) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/opensignlabs/opensign) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/opensignlabs/opensign) <a href=\"https://www.opensignlabs.com/\">Website</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://docs.opensignlabs.com\">Help Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://docs.opensignlabs.com/docs/API-docs/opensign-api-v-1\">API Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://www.opensignlabs.com/blog\">Blog</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://discord.com/invite/xe9TDuyAyj\">Discord</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://twitter.com/opensignlabs\">Twitter</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href=\"https://www.linkedin.com/company/opensign%E2%84%A2/about/\">LinkedIn</a> ## The premier open source document signing solution(DocuSign alternative) --- </div> ### Table of Contents 1. [Introduction](#introduction) 2. [Features](#features) 3. [Installation](#installation)…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-07-19T16:28:22Z",
+    "updated_at": "2025-08-12T12:02:03.563321Z"
+  },
+  {
+    "id": "0xJacky/nginx-ui",
+    "name": "nginx-ui",
+    "owner": "0xJacky",
+    "url": "https://github.com/0xJacky/nginx-ui",
+    "description": "Yet another WebUI for Nginx",
+    "topics": [
+      "chatgpt-app",
+      "code-completion",
+      "copilot",
+      "cron",
+      "deepseek-r1",
+      "docker",
+      "go",
+      "letsencrypt",
+      "linux",
+      "macos",
+      "mcp",
+      "mcp-server",
+      "nginx",
+      "self-hosted",
+      "vue",
+      "webui",
+      "windows"
+    ],
+    "license": "AGPL-3.0",
+    "stars": 9252,
+    "last_update": "2025-08-12T03:01:46Z",
+    "languages": [
+      "Go",
+      "Vue",
+      "TypeScript"
+    ],
+    "readme_excerpt": "<div align=\"center\"> <img src=\"resources/logo.png\" alt=\"Nginx UI Logo\"> </div> # Nginx UI Yet another Nginx Web UI, developed by [0xJacky](https://jackyu.cn/), [Hintay](https://blog.kugeek.com/) and [Akino](https://github.com/akinoccc). [![DeepWiki](https://img.shields.io/badge/DeepWiki-0xJacky%2Fnginx--ui-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/0xJacky/nginx-ui) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/0xJacky/nginx-ui) [![Build and Publish](https://github.com/0xJacky/nginx-ui/actions/workflows/build.yml/badge.svg)](https://github.com/0xJacky/nginx-ui/actions/workflows/build.yml) [![GitHub license](https://img.shields.io/github/license/0xJacky/nginx-ui?label=License&logo=github)](https://github.com/0xJacky/nginx-ui \"Click to view the repo on Github\") [![Release Version](https://img.shields.io/github/release/0xJacky/nginx-ui?include_prereleases&label=Release&logo=github)](https://github.com/0xJacky/nginx-ui/releases/latest \"Click to view the repo on Github\") [![GitHub Star](https://img.shields.io/github/stars/0xJacky/nginx-ui?label=Stars&logo=github)](https://github.com/0xJacky/nginx-ui \"Click to view the repo on Github\") [![GitHub Fork](https://img.shields.io/github/forks/0xJacky/nginx-ui?label=Forks&logo=github)](https://github.com/0xJacky/nginx-ui \"Click to view the repo on Github\") [![Repo Size](https://img.shields.io/github/repo-size/0xJacky/nginx-ui?label=Size&logo=github)](https://github.com/0xJacky/nginx-ui \"Click to view the repo on Github\") [![GitHub Fork](https://img.shields.io/github/issues-closed-raw/0xJacky/nginx-ui?label=Closed%20Issue&logo=github)](https://github.com/0xJacky/nginx-ui/issues \"Click to view the repo…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-07-19T13:14:09Z",
+    "updated_at": "2025-08-12T12:02:04.175445Z"
+  },
+  {
+    "id": "marcelscruz/public-apis",
+    "name": "public-apis",
+    "owner": "marcelscruz",
+    "url": "https://github.com/marcelscruz/public-apis",
+    "description": "A collaborative list of public APIs for developers",
+    "topics": [
+      "apis",
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "lists",
+      "open-source",
+      "public-api",
+      "public-apis",
+      "resources"
+    ],
+    "license": "MIT",
+    "stars": 5503,
+    "last_update": "2025-08-06T10:42:30Z",
+    "languages": [
+      "JavaScript"
+    ],
+    "readme_excerpt": "<!-- <div align=\"center\"> <div> <p align=\"center\"><a href=\"https://publicapis.dev?ref=public_apis&utm_medium=repo_readme\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/public-apis.png\" width=\"130px\"><source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/scrapfly-light-mode.svg\" width=\"130px\"><img alt=\"Scrapfly logo\" src=\"./assets/public-apis.png\" width=\"130px\"></picture></a> </p> <p align=\"center\"><a href=\"https://publicapis.dev?ref=public_apis&utm_medium=repo_readme\">Public APIs</a> — A collaborative list of public APIs for developers.</p> </div> </div> <br/> <hr/> <br/> --> <div align=\"center\">Sponsored by</div> <br/> <div> <p align=\"center\"><a href=\"https://apyhub.com?ref=public_apis&utm_medium=repo_readme\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/apyhub-dark-mode.svg\" width=\"150px\"><source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/apyhub-light-mode.svg\" width=\"150px\"><img alt=\"ApyHub logo\" src=\"./assets/apyhub-dark-mode.svg\" width=\"150px\"></picture></a></p> <p align=\"center\"><a href=\"https://apyhub.com?ref=public_apis&utm_medium=repo_readme\">ApyHub</a>: A Modern API Platform to streamline API Development, Testing and Management. Take your API game to the next…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-07-19T13:13:56Z",
+    "updated_at": "2025-08-12T12:02:04.927611Z"
+  },
+  {
+    "id": "francoisjacquet/rosariosis",
+    "name": "rosariosis",
+    "owner": "francoisjacquet",
+    "url": "https://github.com/francoisjacquet/rosariosis",
+    "description": "RosarioSIS Student Information System for school management.",
+    "topics": [
+      "administration",
+      "attendance-system",
+      "educational-institutions",
+      "educational-software",
+      "erp",
+      "gradebook",
+      "moodle",
+      "school",
+      "school-management",
+      "student",
+      "student-information-system",
+      "student-management",
+      "teachers"
+    ],
+    "license": "GPL-2.0",
+    "stars": 589,
+    "last_update": "2025-08-08T15:11:49Z",
+    "languages": [
+      "PHP",
+      "JavaScript",
+      "CSS"
+    ],
+    "readme_excerpt": "RosarioSIS Student Information System ===================================== [<img src=\"http://www.rosariosis.org/wp-content/uploads/2013/02/rosariosis_logo2half.png\" width=\"144\" />](https://www.rosariosis.org) License ------- RosarioSIS is \"free\" software released under the [GNU General Public License version 2](LICENSE). Your [contributions](https://www.rosariosis.org/contribute/) are welcome. Installation ------------ Minimum requirements: PHP 5.5.9 & PostgreSQL 9.2 or MySQL 5.6/MariaDB. For installation directions, consult the [INSTALL.md](https://gitlab.com/francoisjacquet/rosariosis/-/blob/mobile/INSTALL.md) file. Documentation ------------- [Documentation](https://www.rosariosis.org/documentation/): Quick Setup Guide, User Manuals, Report samples, Tips, Wiki. Demo ---- Try RosarioSIS: access the [online demonstration](https://www.rosariosis.org/demo/). Official site ------------- rosariosis.org: [English](https://www.rosariosis.org) • [Español](https://www.rosariosis.org/es/) • [Français](https://www.rosariosis.org/fr/) Screenshots ----------- ![Calendars](https://www.rosariosis.org/wp-content/uploads/2021/08/rosariosis_calendar_en_2021.png) ![Student…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-06-29T21:33:46Z",
+    "updated_at": "2025-08-12T12:02:05.615249Z"
+  },
+  {
+    "id": "google-gemini/gemini-cli",
+    "name": "gemini-cli",
+    "owner": "google-gemini",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "topics": [
+      "gemini",
+      "gemini-api"
+    ],
+    "license": "Apache-2.0",
+    "stars": 68868,
+    "last_update": "2025-08-12T12:00:34Z",
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Dockerfile"
+    ],
+    "readme_excerpt": "# Gemini CLI [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml) [![Version](https://img.shields.io/npm/v/@google/gemini-cli)](https://www.npmjs.com/package/@google/gemini-cli) [![License](https://img.shields.io/github/license/google-gemini/gemini-cli)](https://github.com/google-gemini/gemini-cli/blob/main/LICENSE) ![Gemini CLI Screenshot](./docs/assets/gemini-screenshot.png) Gemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model. ## 🚀 Why Gemini CLI? - **🎯 Free tier**: 60 requests/min and 1,000 requests/day with personal Google account - **🧠 Powerful Gemini 2.5 Pro**: Access to 1M token context window - **🔧 Built-in tools**:…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-06-25T16:13:37Z",
+    "updated_at": "2025-08-12T12:02:06.458048Z"
+  },
+  {
+    "id": "moodle/moodle",
+    "name": "moodle",
+    "owner": "moodle",
+    "url": "https://github.com/moodle/moodle",
+    "description": "Moodle - the world's open source learning platform",
+    "topics": [],
+    "license": "GPL-3.0",
+    "stars": 6375,
+    "last_update": "2025-08-08T03:14:21Z",
+    "languages": [
+      "PHP",
+      "JavaScript",
+      "Gherkin"
+    ],
+    "readme_excerpt": "# Moodle <p align=\"center\"><a href=\"https://moodle.org\" target=\"_blank\" title=\"Moodle Website\"> <img src=\"https://raw.githubusercontent.com/moodle/moodle/main/.github/moodlelogo.svg\" alt=\"The Moodle Logo\"> </a></p> [Moodle][1] is the World's Open Source Learning Platform, widely used around the world by countless universities, schools, companies, and all manner of organisations and individuals. Moodle is designed to allow educators, administrators and learners to create personalised learning environments with a single robust, secure and integrated system. ## Documentation - Read our [User documentation][3] - Discover our [developer documentation][5] - Take a look at our [demo…",
+    "subjects": [
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-06-12T08:53:10Z",
+    "updated_at": "2025-08-12T12:02:07.168968Z"
+  },
+  {
+    "id": "ctrl-alt-d/EsferaPowerToys",
+    "name": "EsferaPowerToys",
+    "owner": "ctrl-alt-d",
+    "url": "https://github.com/ctrl-alt-d/EsferaPowerToys",
+    "description": "Scripts per entrar notes a l'esfera com si fossis ninja",
+    "topics": [],
+    "license": "MIT",
+    "stars": 7,
+    "last_update": "2025-06-06T14:56:59Z",
+    "languages": [
+      "JavaScript"
+    ],
+    "readme_excerpt": "# Esfer@ PowerToys Millores personalitzades per a la plataforma Esfer@ d'avaluació del Departament d'Educació de la Generalitat de Catalunya. Aquest script permet aplicar ràpidament notes fent copy-paste des del teu full de càlcul. ![Tests](https://github.com/ctrl-alt-d/EsferaPowerToys/actions/workflows/test.yml/badge.svg) --- ## 🔧 Requisits Per instal·lar aquest script necessites: - 🔌 [Tampermonkey](https://www.tampermonkey.net/) — una extensió per a navegadors que permet executar scripts d'usuari. - 🌐 Un navegador compatible (Chrome, Firefox, Edge...). --- ## 🚀 Instal·lació 1. Instal·la **Tampermonkey** des de la seva web oficial: 👉 [https://www.tampermonkey.net/](https://www.tampermonkey.net/)…",
+    "subjects": [
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2025-06-02T07:13:10Z",
+    "updated_at": "2025-08-12T12:02:07.901655Z"
+  },
+  {
+    "id": "lahoramaker/facturas2json",
+    "name": "facturas2json",
+    "owner": "lahoramaker",
+    "url": "https://github.com/lahoramaker/facturas2json",
+    "description": "Facturas2json es un programa que te permite extraer datos estructurados a partir de facturas utilizando los modelos Marker y nuExtract.",
+    "topics": [],
+    "license": "MIT",
+    "stars": 38,
+    "last_update": "2024-08-02T21:22:33Z",
+    "languages": [
+      "Python"
+    ],
+    "readme_excerpt": "# Extractor de Facturas Este proyecto es una aplicación de Streamlit diseñada para extraer información de facturas en formato PDF y convertirla en un formato estructurado (JSON). ## Características - Interfaz de usuario en español - Carga múltiple de archivos PDF - Extracción de texto de PDFs utilizando la biblioteca Marker - Extracción de datos estructurados utilizando el de modelo de lenguaje nuExtract. - Vista previa de PDFs y edición de datos extraídos - Guardado de datos en formato JSONL…",
+    "subjects": [
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-07-12T19:20:19Z",
+    "updated_at": "2025-08-12T12:02:08.719461Z"
+  },
+  {
+    "id": "ai-to-ai/Auto-Gmail-Creator",
+    "name": "Auto-Gmail-Creator",
+    "owner": "ai-to-ai",
+    "url": "https://github.com/ai-to-ai/Auto-Gmail-Creator",
+    "description": "Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping.",
+    "topics": [
+      "account",
+      "auto-create-gmail",
+      "automation",
+      "csv",
+      "gmail",
+      "gmail-bot",
+      "google",
+      "mail",
+      "pip",
+      "python",
+      "python3",
+      "registeration",
+      "requests",
+      "scraping",
+      "selenium",
+      "selenium-webdriver",
+      "seleniumwire",
+      "sms",
+      "webdrivermanager"
+    ],
+    "license": "NOASSERTION",
+    "stars": 723,
+    "last_update": "2024-09-26T17:14:30Z",
+    "languages": [
+      "Python"
+    ],
+    "readme_excerpt": "# Auto-Gmail-Creator ## Summary Latest Open Source Bulk Auto Google Account ( Gmail ) Regiteration Bot Script 2023 ### Important Notice for already cloned/ forked users I developed stealth webdriver that avoid detection during the account creation. You can contact me to get it by giving me a coffee. btw, The only thing remain is to find cheap, robust sms providers as well as proxies. ### Introduction This is the automation script for Python lovers to learn basics about automation…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-07-12T08:09:28Z",
+    "updated_at": "2025-08-12T12:02:09.321017Z"
+  },
+  {
+    "id": "datalab-to/marker",
+    "name": "marker",
+    "owner": "datalab-to",
+    "url": "https://github.com/datalab-to/marker",
+    "description": "Convert PDF to markdown + JSON quickly with high accuracy",
+    "topics": [],
+    "license": "GPL-3.0",
+    "stars": 27140,
+    "last_update": "2025-08-11T18:26:53Z",
+    "languages": [
+      "Python",
+      "Shell"
+    ],
+    "readme_excerpt": "# Marker Marker converts documents to markdown, JSON, chunks, and HTML quickly and accurately. - Converts PDF, image, PPTX, DOCX, XLSX, HTML, EPUB files in all languages - Formats tables, forms, equations, inline math, links, references, and code blocks - Extracts and saves images - Removes headers/footers/other artifacts - Extensible with your own formatting and logic - Does structured extraction, given a JSON schema (beta) - Optionally boost accuracy with LLMs (and your own prompt) - Works on GPU, CPU,…",
+    "subjects": [
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-07-09T18:58:18Z",
+    "updated_at": "2025-08-12T12:02:10.066043Z"
+  },
+  {
+    "id": "jina-ai/reader",
+    "name": "reader",
+    "owner": "jina-ai",
+    "url": "https://github.com/jina-ai/reader",
+    "description": "Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/",
+    "topics": [
+      "llm",
+      "proxy"
+    ],
+    "license": "Apache-2.0",
+    "stars": 9072,
+    "last_update": "2025-05-08T07:21:34Z",
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Dockerfile"
+    ],
+    "readme_excerpt": "# Reader Your LLMs deserve better input. Reader does two things: - **Read**: It converts any URL to an **LLM-friendly** input with `https://r.jina.ai/https://your.url`. Get improved output for your agent and RAG systems at no cost. - **Search**: It searches the web for a given query with `https://s.jina.ai/your+query`. This allows your LLMs to access the latest world knowledge from the web. Check out [the live demo](https://jina.ai/reader#demo) Or just visit these URLs (**Read**) https://r.jina.ai/https://github.com/jina-ai/reader, (**Search**) https://s.jina.ai/Who%20will%20win%202024%20US%20presidential%20election%3F and see yourself. > Feel free…",
+    "subjects": [
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-07-09T18:49:06Z",
+    "updated_at": "2025-08-12T12:02:10.790782Z"
+  },
+  {
+    "id": "hackmdio/codimd",
+    "name": "codimd",
+    "owner": "hackmdio",
+    "url": "https://github.com/hackmdio/codimd",
+    "description": "CodiMD - Realtime collaborative markdown notes on all platforms.",
+    "topics": [
+      "codimd",
+      "collaboration",
+      "hackmd",
+      "markdown",
+      "notes",
+      "realtime"
+    ],
+    "license": "AGPL-3.0",
+    "stars": 9762,
+    "last_update": "2025-08-02T15:25:38Z",
+    "languages": [
+      "JavaScript",
+      "EJS",
+      "CSS"
+    ],
+    "readme_excerpt": "CodiMD === [![build status][travis-image]][travis-url] [![version][github-version-badge]][github-release-page] [![Gitter][gitter-image]][gitter-url] [![Matrix][matrix-image]][matrix-url] [![POEditor][poeditor-image]][poeditor-url] CodiMD lets you collaborate in real-time with markdown. Built on [HackMD](https://hackmd.io) source code, CodiMD lets you host and control your team's content with speed and ease. ![screenshot](https://raw.githubusercontent.com/hackmdio/codimd/develop/public/screenshot.png) <!-- START doctoc generated TOC please keep comment here to allow auto update --> <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE --> # Table of Contents - [HackMD](#hackmd) - [CodiMD - The Open Source HackMD](#codimd---the-open-source-hackmd) - [Documentation](#documentation) - [Deployment](#deployment) - [Configuration](#configuration) -…",
+    "subjects": [
+      "alta-disponibilitat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-07-09T10:45:58Z",
+    "updated_at": "2025-08-12T12:02:11.426472Z"
+  },
+  {
+    "id": "CTFd/CTFd",
+    "name": "CTFd",
+    "owner": "CTFd",
+    "url": "https://github.com/CTFd/CTFd",
+    "description": "CTFs as you need them",
+    "topics": [
+      "ctf",
+      "ctfd",
+      "education",
+      "flask",
+      "security"
+    ],
+    "license": "Apache-2.0",
+    "stars": 6155,
+    "last_update": "2025-08-12T06:59:02Z",
+    "languages": [
+      "Python",
+      "JavaScript",
+      "HTML"
+    ],
+    "readme_excerpt": "# ![](https://github.com/CTFd/CTFd/blob/master/CTFd/themes/core/static/img/logo.png?raw=true) ![CTFd MySQL CI](https://github.com/CTFd/CTFd/workflows/CTFd%20MySQL%20CI/badge.svg?branch=master) ![Linting](https://github.com/CTFd/CTFd/workflows/Linting/badge.svg?branch=master) [![MajorLeagueCyber Discourse](https://img.shields.io/discourse/status?server=https%3A%2F%2Fcommunity.majorleaguecyber.org%2F)](https://community.majorleaguecyber.org/) [![Documentation Status](https://api.netlify.com/api/v1/badges/6d10883a-77bb-45c1-a003-22ce1284190e/deploy-status)](https://docs.ctfd.io) ## What is CTFd? CTFd is a Capture The Flag framework focusing on ease of use and customizability. It comes with everything you need to run a CTF and it's easy to customize with plugins and themes. ![CTFd is a CTF in a can.](https://github.com/CTFd/CTFd/blob/master/CTFd/themes/core/static/img/scoreboard.png?raw=true) ## Features - Create your own challenges, categories, hints, and flags from the Admin Interface - Dynamic Scoring Challenges - Unlockable challenge support - Challenge plugin…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-06-20T19:21:29Z",
+    "updated_at": "2025-08-12T12:02:12.154469Z"
+  },
+  {
+    "id": "mindcrypt/talks",
+    "name": "talks",
+    "owner": "mindcrypt",
+    "url": "https://github.com/mindcrypt/talks",
+    "description": "talks",
+    "topics": [],
+    "license": "NOASSERTION",
+    "stars": 15,
+    "last_update": "2025-05-08T09:15:40Z",
+    "languages": [],
+    "readme_excerpt": "# Talks e investigaciones sobre seguridad @mindcrypt",
+    "subjects": [
+      "projectes",
+      "seguretat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-06-19T22:00:44Z",
+    "updated_at": "2025-08-12T12:02:12.869669Z"
+  },
+  {
+    "id": "progit/progit2-es",
+    "name": "progit2-es",
+    "owner": "progit",
+    "url": "https://github.com/progit/progit2-es",
+    "description": "Spanish Translation",
+    "topics": [],
+    "license": "NOASSERTION",
+    "stars": 143,
+    "last_update": "2023-12-02T08:34:41Z",
+    "languages": [
+      "CSS",
+      "Ruby",
+      "XSLT"
+    ],
+    "readme_excerpt": "= Pro Git, Segunda Edición, Español. Bienvenido a la segunda edición del libro Pro Git. Puedes encontrar este libro en la Web en http://git-scm.com/book Tal y como es el caso de la primera edición, la segunda edición es abierta bajo una licencia \"Creative Commons\". Un par de cosas han cambiado con respecto a la primera edición. Primero, hemos cambiado Markdown por el asombroso formato Asciidoc para el texto del libro. Además nos hemos cambiado a la https://atlas.oreilly.com[plataforma Atlas] de O'Reilly…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-06-01T15:49:49Z",
+    "updated_at": "2025-08-12T12:02:13.607271Z"
+  },
+  {
+    "id": "Raphire/Win11Debloat",
+    "name": "Win11Debloat",
+    "owner": "Raphire",
+    "url": "https://github.com/Raphire/Win11Debloat",
+    "description": "A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "topics": [
+      "automated",
+      "bloatware",
+      "bloatware-removal",
+      "cleanup",
+      "debloat",
+      "debloater",
+      "interactive",
+      "optimize",
+      "powershell",
+      "powershell-script",
+      "privacy",
+      "ps1",
+      "registry-tweaks",
+      "tweaks",
+      "windows",
+      "windows-10",
+      "windows-11",
+      "windows-11-debloat",
+      "windows10",
+      "windows11"
+    ],
+    "license": "MIT",
+    "stars": 24668,
+    "last_update": "2025-08-01T19:55:32Z",
+    "languages": [
+      "PowerShell",
+      "Batchfile"
+    ],
+    "readme_excerpt": "<div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://www.warp.dev/windebloat\"> <img alt=\"Warp sponsorship\" width=\"400\" src=\"https://github.com/user-attachments/assets/c21102f7-bab9-4344-a731-0cf6b341cab2\"> </a> ### [Warp, the intelligent terminal for developers](https://www.warp.dev/windebloat) [Available for MacOS, Linux, & Windows](https://www.warp.dev/windebloat)<br> </div> <hr> # Win11Debloat [![GitHub Release](https://img.shields.io/github/v/release/Raphire/Win11Debloat?style=for-the-badge&label=Latest%20release)](https://github.com/Raphire/Win11Debloat/releases/latest) [![Join the Discussion](https://img.shields.io/badge/Join-the%20Discussion-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raphire/Win11Debloat/discussions) [![Static Badge](https://img.shields.io/badge/Documentation-_?style=for-the-badge&logo=bookstack&color=grey)](https://github.com/Raphire/Win11Debloat/wiki/) Win11Debloat is a simple, easy to use and lightweight PowerShell script that allows you to quickly declutter and improve your Windows experience. It can remove pre-installed bloatware apps, disable telemetry, remove intrusive interface elements and much more. No need to…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-05-19T00:11:13Z",
+    "updated_at": "2025-08-12T12:02:14.255675Z"
+  },
+  {
+    "id": "DeabLabs/cannoli",
+    "name": "cannoli",
+    "owner": "DeabLabs",
+    "url": "https://github.com/DeabLabs/cannoli",
+    "description": "Cannoli allows you to build and run no-code LLM scripts using the Obsidian Canvas editor.",
+    "topics": [],
+    "license": "MIT",
+    "stars": 380,
+    "last_update": "2025-04-15T14:07:46Z",
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "CSS"
+    ],
+    "readme_excerpt": "# Cannoli [![Join our Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/wzayNxpxvR)](https://discord.gg/https://discord.gg/wzayNxpxvR) Cannoli allows you to build and run no-code LLM scripts using the Obsidian Canvas editor. ## What is a Cannoli? ![Example Cannoli](/packages/cannoli-plugin/assets/exampleCannoli.png) Cannolis are scripts that leverage LLMs to read/write to your vault, and take actions using HTTP requests. Cannolis are created in the Obsidian Canvas editor, using cards and arrows to define variables and logic. They can be run within Obsidian using the control ribbon button or the command palette. Using colors or prefixes,…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-05-07T21:50:05Z",
+    "updated_at": "2025-08-12T12:02:15.014503Z"
+  },
+  {
+    "id": "localtunnel/localtunnel",
+    "name": "localtunnel",
+    "owner": "localtunnel",
+    "url": "https://github.com/localtunnel/localtunnel",
+    "description": "expose yourself",
+    "topics": [],
+    "license": "MIT",
+    "stars": 21126,
+    "last_update": "2025-07-23T19:29:22Z",
+    "languages": [
+      "JavaScript"
+    ],
+    "readme_excerpt": "# localtunnel localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes. Great for working with browser testing tools like browserling or external api callback services like twilio which require a public url for callbacks. ## Quickstart ``` npx localtunnel --port 8000 ``` ## Installation ### Globally ``` npm install -g localtunnel ``` ### As a dependency in your project ``` yarn…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-05-03T11:49:58Z",
+    "updated_at": "2025-08-12T12:02:15.642303Z"
+  },
+  {
+    "id": "kamranahmedse/developer-roadmap",
+    "name": "developer-roadmap",
+    "owner": "kamranahmedse",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "topics": [
+      "angular-roadmap",
+      "backend-roadmap",
+      "blockchain-roadmap",
+      "computer-science",
+      "dba-roadmap",
+      "developer-roadmap",
+      "devops-roadmap",
+      "frontend-roadmap",
+      "go-roadmap",
+      "java-roadmap",
+      "javascript-roadmap",
+      "nodejs-roadmap",
+      "python-roadmap",
+      "qa-roadmap",
+      "react-roadmap",
+      "roadmap",
+      "software-architect-roadmap",
+      "vue-roadmap"
+    ],
+    "license": "NOASSERTION",
+    "stars": 333617,
+    "last_update": "2025-08-11T12:37:52Z",
+    "languages": [
+      "TypeScript",
+      "Astro",
+      "JavaScript"
+    ],
+    "readme_excerpt": "<p align=\"center\"> <a href=\"https://roadmap.sh/\"><img src=\"public/img/brand.png\" height=\"128\"></a> <h2 align=\"center\"><a href=\"https://roadmap.sh\">roadmap.sh</a></h2> <p align=\"center\">Community driven roadmaps, articles and resources for developers<p> <p align=\"center\"> <a href=\"https://roadmap.sh/roadmaps\"> <img src=\"https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a\" alt=\"roadmaps\" /> </a> <a href=\"https://roadmap.sh/best-practices\"> <img src=\"https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a\" alt=\"best practices\" /> </a> <a href=\"https://roadmap.sh/questions\"> <img src=\"https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a\" alt=\"videos\" /> </a> <a href=\"https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1\"> <img src=\"https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a\" alt=\"roadmaps\" /> </a> </p> </p> <br> ![](https://i.imgur.com/waxVImv.png) Roadmaps are now interactive, you can click the nodes to read more about the topics. ### [View all Roadmaps](https://roadmap.sh) &nbsp;&middot;&nbsp; [Best Practices](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questions](https://roadmap.sh/questions) ![](https://i.imgur.com/waxVImv.png) Here is…",
+    "subjects": [
+      "alta-disponibilitat",
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-04-21T14:56:53Z",
+    "updated_at": "2025-08-12T12:02:16.262309Z"
+  },
+  {
+    "id": "abi/screenshot-to-code",
+    "name": "screenshot-to-code",
+    "owner": "abi",
+    "url": "https://github.com/abi/screenshot-to-code",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "topics": [],
+    "license": "MIT",
+    "stars": 70589,
+    "last_update": "2025-07-27T20:51:24Z",
+    "languages": [
+      "Python",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "readme_excerpt": "# screenshot-to-code A simple tool to convert screenshots, mockups and Figma designs into clean, functional code using AI. Now supporting Claude Sonnet 3.7! https://github.com/abi/screenshot-to-code/assets/23818/6cebadae-2fe3-4986-ac6a-8fb9db030045 Supported stacks: - HTML + Tailwind - HTML + CSS - React + Tailwind - Vue + Tailwind - Bootstrap - Ionic + Tailwind - SVG Supported AI models: - Claude Sonnet 3.7 - Best model! - GPT-4o - also recommended! - DALL-E 3 or Flux Schnell (using Replicate) for image generation See the [Examples](#-examples) section…",
+    "subjects": [
+      "alta-disponibilitat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2024-04-21T07:21:06Z",
+    "updated_at": "2025-08-12T12:02:17.082956Z"
+  },
+  {
+    "id": "Stability-AI/StableLM",
+    "name": "StableLM",
+    "owner": "Stability-AI",
+    "url": "https://github.com/Stability-AI/StableLM",
+    "description": "StableLM: Stability AI Language Models",
+    "topics": [],
+    "license": "Apache-2.0",
+    "stars": 15826,
+    "last_update": "2024-04-08T19:26:02Z",
+    "languages": [
+      "Jupyter Notebook"
+    ],
+    "readme_excerpt": "# StableLM: Stability AI Language Models ![Stochastic Parrot](./assets/mascot.png) <br/>*“A Stochastic Parrot, flat design, vector art” — [Stable Diffusion XL](https://clipdrop.co/stable-diffusion)* This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints. The following provides an overview of all currently available models. More coming soon. ## News *September 29, 2023* - Released StableLM-3B-4E1T model under [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). *August 5, 2023* - Released patched StableLM-Alpha v2 models with 3B and 7B parameters.…",
+    "subjects": [
+      "alta-disponibilitat"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2023-04-19T19:47:43Z",
+    "updated_at": "2025-08-12T12:02:17.812685Z"
+  },
+  {
+    "id": "luisllamasbinaburo/ESP32-Examples",
+    "name": "ESP32-Examples",
+    "owner": "luisllamasbinaburo",
+    "url": "https://github.com/luisllamasbinaburo/ESP32-Examples",
+    "description": "Ejemplos de los tutoriales sobre el ESP32",
+    "topics": [],
+    "license": "Apache-2.0",
+    "stars": 99,
+    "last_update": "2024-04-29T21:37:52Z",
+    "languages": [
+      "C++",
+      "HTML",
+      "JavaScript"
+    ],
+    "readme_excerpt": "## Recopilatorio de códigos de los tutoriales de ESP32 [![www.luisllamas.es](https://github.com/luisllamasbinaburo/tutoriales-arduino-luisllamas_es/blob/main/img/screenshot.png)](https://www.luisllamas.es) ❤️ Códigos de ejemplo y ejercicios de la sección del ESP32 en https://www.luisllamas.es/esp8266-esp32/ 🔗 Para más información de cada código en el tutorial de su respectiva entrada ⭐️¡Si te gusta dale a la estrellita! </br></br> **Repos con tutoriales de otras secciones** - Tutoriales Arduino: https://github.com/luisllamasbinaburo/tutoriales-arduino-luisllamas_es - Tutoriales ESP8266: https://github.com/luisllamasbinaburo/ESP8266-Examples - Tutoriales ESP32: https://github.com/luisllamasbinaburo/ESP32-Examples </br></br> **Licencia** [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/) Todo el contenido distribuido bajo licencia CC BY-NC-SA, salvo indicación expresa.…",
+    "subjects": [
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2022-10-12T09:42:36Z",
+    "updated_at": "2025-08-12T12:02:18.396679Z"
+  },
+  {
+    "id": "luisllamasbinaburo/ESP8266-Examples",
+    "name": "ESP8266-Examples",
+    "owner": "luisllamasbinaburo",
+    "url": "https://github.com/luisllamasbinaburo/ESP8266-Examples",
+    "description": "Ejemplos de los tutoriales sobre el ESP8266",
+    "topics": [],
+    "license": "GPL-3.0",
+    "stars": 130,
+    "last_update": "2024-04-29T21:38:07Z",
+    "languages": [
+      "C++",
+      "HTML",
+      "JavaScript"
+    ],
+    "readme_excerpt": "## Recopilatorio de códigos de los tutoriales de ESP8266 [![www.luisllamas.es](https://github.com/luisllamasbinaburo/tutoriales-arduino-luisllamas_es/blob/main/img/screenshot.png)](https://www.luisllamas.es) ❤️ Códigos de ejemplo y ejercicios de la sección del ESP8266 en https://www.luisllamas.es/esp8266-esp32/ 🔗 Para más información de cada código en el tutorial de su respectiva entrada ⭐️¡Si te gusta dale a la estrellita! </br></br> **Repos con tutoriales de otras secciones** - Tutoriales Arduino: https://github.com/luisllamasbinaburo/tutoriales-arduino-luisllamas_es - Tutoriales ESP8266: https://github.com/luisllamasbinaburo/ESP8266-Examples - Tutoriales ESP32: https://github.com/luisllamasbinaburo/ESP32-Examples </br></br> **Licencia** [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/) Todo el contenido distribuido bajo licencia CC BY-NC-SA, salvo indicación expresa.…",
+    "subjects": [
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2022-10-12T09:42:20Z",
+    "updated_at": "2025-08-12T12:02:19.009384Z"
+  },
+  {
+    "id": "luisllamasbinaburo/tutoriales-arduino-luisllamas_es",
+    "name": "tutoriales-arduino-luisllamas_es",
+    "owner": "luisllamasbinaburo",
+    "url": "https://github.com/luisllamasbinaburo/tutoriales-arduino-luisllamas_es",
+    "description": "",
+    "topics": [],
+    "license": "NOASSERTION",
+    "stars": 129,
+    "last_update": "2024-04-29T21:36:11Z",
+    "languages": [],
+    "readme_excerpt": "## Recopilatorio de códigos de los tutoriales de Arduino [![www.luisllamas.es](img/screenshot.png)](https://www.luisllamas.es) ❤️ Repositorio con TODO el código y ejemplos de los tutoriales de Arduino de www.luisllamas.es 🌈Divididos en entradas y en dificultad (básico, intermedio, y avanzado) 🔗 Para más información de cada código en el tutorial de su respectiva entrada, cuya dirección se indica en la cabecera. ⭐️¡Si te gusta dale a la estrellita! </br></br> **Repos con tutoriales de otras secciones** - Tutoriales Arduino: https://github.com/luisllamasbinaburo/tutoriales-arduino-luisllamas_es - Tutoriales ESP8266: https://github.com/luisllamasbinaburo/ESP8266-Examples - Tutoriales…",
+    "subjects": [
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2022-10-12T09:41:38Z",
+    "updated_at": "2025-08-12T12:02:19.617200Z"
+  },
+  {
+    "id": "elloza/MicroPython-Resources",
+    "name": "MicroPython-Resources",
+    "owner": "elloza",
+    "url": "https://github.com/elloza/MicroPython-Resources",
+    "description": "This repository contains the content of the talk \"Introducción a MicroPython\" 2020. UTP y USAL.",
+    "topics": [],
+    "license": "MIT",
+    "stars": 7,
+    "last_update": "2020-11-06T20:37:41Z",
+    "languages": [],
+    "readme_excerpt": "# MicroPython-Resources This repository contains the content of the talk \"Introducción a MicroPython\" 2020. UTP y USAL. <p align=\"center\"> <img src=\"https://github.com/elloza/MicroPython-Resources/blob/main/talk_image.JPG?raw=true\"> </p>",
+    "subjects": [
+      "projectes"
+    ],
+    "manual_subjects": [],
+    "starred_at": "2022-06-13T22:45:33Z",
+    "updated_at": "2025-08-12T12:02:20.260482Z"
+  }
+]

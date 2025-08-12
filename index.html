@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Repos docentes</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 0; padding: 1rem; }
+  header { display:flex; gap:1rem; flex-wrap:wrap; align-items:center; }
+  .grid { display:grid; grid-template-columns: repeat(auto-fill,minmax(280px,1fr)); gap:1rem; margin-top:1rem; }
+  .card { border:1px solid #ddd; border-radius:12px; padding:1rem; }
+  .tags, .subjects { display:flex; gap:.5rem; flex-wrap:wrap; margin:.5rem 0; }
+  .chip { border:1px solid #ccc; border-radius:999px; padding:.2rem .6rem; font-size:.85rem; }
+  .pill { background:#efefef; border-radius:999px; padding:.2rem .6rem; font-size:.75rem; }
+  .muted { color:#555; font-size:.9rem; }
+  .filters { display:flex; gap:1rem; align-items:center; flex-wrap:wrap; }
+  input[type="search"]{ padding:.5rem; width:260px; }
+  label { display:flex; gap:.4rem; align-items:center; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Repos para clase</h1>
+  <div class="filters">
+    <input id="q" type="search" placeholder="Buscar… (nombre, descripción, topic)"/>
+    <label><input type="checkbox" name="s" value="projectes" checked> projectes</label>
+    <label><input type="checkbox" name="s" value="seguretat" checked> seguretat</label>
+    <label><input type="checkbox" name="s" value="alta-disponibilitat" checked> alta-disponibilitat</label>
+  </div>
+</header>
+
+<div id="grid" class="grid"></div>
+
+<script>
+const state = { data: [], q: "", subjects: new Set(["projectes","seguretat","alta-disponibilitat"]) };
+
+const $q = document.getElementById('q');
+$q.addEventListener('input', () => { state.q = $q.value.toLowerCase(); render(); });
+
+document.querySelectorAll('input[name="s"]').forEach(cb=>{
+  cb.addEventListener('change', ()=>{
+    if(cb.checked) state.subjects.add(cb.value); else state.subjects.delete(cb.value);
+    render();
+  });
+});
+
+fetch('repos.json').then(r=>r.json()).then(d=>{ state.data = d; render(); });
+
+function match(repo){
+  const subs = new Set([...(repo.subjects||[]), ...(repo.manual_subjects||[])]);
+  const subjectOk = [...subs].some(s => state.subjects.has(s));
+  if(!subjectOk) return false;
+  if(!state.q) return true;
+  const hay = [
+    repo.name, repo.owner, repo.description||"",
+    (repo.topics||[]).join(" "),
+    (repo.languages||[]).join(" "),
+    repo.readme_excerpt||""
+  ].join(" ").toLowerCase();
+  return hay.includes(state.q);
+}
+
+function card(repo){
+  const subs = [...new Set([...(repo.subjects||[]), ...(repo.manual_subjects||[])])];
+  return `
+  <article class="card">
+    <h3><a href="${repo.url}" target="_blank" rel="noopener">${repo.name}</a></h3>
+    <div class="muted">${repo.owner} • ⭐ ${repo.stars} • ${repo.license}</div>
+    <p>${repo.description||""}</p>
+    ${repo.readme_excerpt ? `<p class="muted">${repo.readme_excerpt}</p>` : ""}
+    <div class="subjects">${subs.map(s=>`<span class="pill">${s}</span>`).join("")}</div>
+    ${repo.topics?.length ? `<div class="tags">${repo.topics.slice(0,6).map(t=>`<span class="chip">#${t}</span>`).join("")}</div>` : ""}
+    ${repo.languages?.length ? `<div class="muted">Lenguajes: ${repo.languages.join(", ")}</div>` : ""}
+    <div class="muted">Actualizado: ${new Date(repo.last_update||repo.updated_at).toLocaleDateString()}</div>
+  </article>`;
+}
+
+function render(){
+  const grid = document.getElementById('grid');
+  const items = state.data.filter(match);
+  grid.innerHTML = items.map(card).join("") || "<p>No hay repos que coincidan.</p>";
+}
+</script>
+</body>
+</html>
+
