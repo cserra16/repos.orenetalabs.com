@@ -15,6 +15,7 @@
   .filters { display:flex; gap:1rem; align-items:center; flex-wrap:wrap; }
   input[type="search"]{ padding:.5rem; width:260px; }
   label { display:flex; gap:.4rem; align-items:center; }
+  .edit-btn { margin-top:.5rem; align-self:flex-start; }
 </style>
 </head>
 <body>
@@ -43,7 +44,14 @@ document.querySelectorAll('input[name="s"]').forEach(cb=>{
   });
 });
 
-fetch('repos.json').then(r=>r.json()).then(d=>{ state.data = d; render(); });
+fetch('repos.json').then(r=>r.json()).then(d=>{
+  state.data = d.map(repo => {
+    const stored = localStorage.getItem('tags:'+repo.id);
+    if(stored) repo.manual_subjects = stored.split(',').map(s=>s.trim()).filter(Boolean);
+    return repo;
+  });
+  render();
+});
 
 function match(repo){
   const subs = new Set([...(repo.subjects||[]), ...(repo.manual_subjects||[])]);
@@ -67,6 +75,7 @@ function card(repo){
     <p>${repo.description||""}</p>
     <div class="subjects">${subs.map(s=>`<span class="pill">${s}</span>`).join("")}</div>
     <div class="muted">Actualizado: ${new Date(repo.last_update||repo.updated_at).toLocaleDateString()}</div>
+    <button class="edit-btn" onclick="editTags('${repo.id}')">Editar etiquetas</button>
   </article>`;
 }
 
@@ -74,6 +83,17 @@ function render(){
   const grid = document.getElementById('grid');
   const items = state.data.filter(match);
   grid.innerHTML = items.map(card).join("") || "<p>No hay repos que coincidan.</p>";
+}
+
+function editTags(id){
+  const repo = state.data.find(r=>r.id===id);
+  const current = (repo.manual_subjects||[]).join(', ');
+  const input = prompt('Etiquetas (separadas por comas):', current);
+  if(input===null) return;
+  const tags = input.split(',').map(s=>s.trim()).filter(Boolean);
+  repo.manual_subjects = tags;
+  localStorage.setItem('tags:'+id, tags.join(','));
+  render();
 }
 </script>
 </body>
